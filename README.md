@@ -34,6 +34,9 @@ On this company’s official website there is a recipe for a Halloween themed ap
 
 - location OSINT
 
+<img width="931" height="1257" alt="image" src="https://github.com/user-attachments/assets/f37d920f-b6a8-4a8f-a2d1-f6000bb1a178" />
+
+
 This image was taken...
 
 ### Challenge #3 - Hard
