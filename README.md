@@ -1,7 +1,7 @@
 # OSINT-Challenges
 Halloween OSINT Challenges
 
-### Challenge 1 - Easy
+### Challenge #1 - Easy
 
 One of the best parts of Halloween is the spooky movies. What spooky film won the first ever San Francisco Film Critics Circle Award for best animated feature?
 
@@ -9,12 +9,27 @@ The director of this film also assisted in the production of commercials for a f
 
 On this company’s official website there is a recipe for a Halloween themed apple pie. What is the name of this seasonal recipe? 
 
+<details>
+<summary>Click to see the answer to question #1</summary>
+  
+**Caroline**
 
+</details>
 
-Film: **Caroline**
+<details>
+<summary>Click to see the answer to question #2</summary>
+  
+**Pillsbury**
 
-Director: **Henry Selick**
+</details>
 
-Company: **Pillsbury**
+<details>
+<summary>Click to see the answer to question #3</summary>
+  
+**Mummy Apple Pie**
 
-Recipe: **Mummy Apple Pie**
+</details>
+
+### Challenge #2 - Medium
+
+This image was taken...
