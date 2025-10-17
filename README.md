@@ -36,12 +36,19 @@ This image was taken from one of the largest Halloween events in the United Stat
 
 <img width="340" height="450" alt="image" src="https://github.com/user-attachments/assets/c5c62ed3-0bcf-4ded-8fee-9da9447f3085" />
 
-In 2019 there was a haunted house at this event themed after the Netflix show in which IMDB users frequently report as Netflix's most watched show ever. What is the name of the 2025 attraction that is at the same location as this haunted house was? 
+In 2019 there was a haunted house at this event themed after the Netflix show in which IMDB users frequently report as Netflix's most watched show ever. What is the name of this show and what is the name of the 2025 attraction that is at the same location as this haunted house once was? 
 
 <details>
 <summary>Click to see the answer to question #1</summary>
   
 **Universal's Halloween Horror Nights Orlando**
+
+</details>
+
+<details>
+<summary>Click to see the answer to question #2</summary>
+  
+**Stranger Things**
 
 </details>
 
