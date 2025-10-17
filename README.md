@@ -34,10 +34,16 @@ On this company’s official website there is a recipe for a Halloween themed ap
 
 This image was taken from one of the largest Halloween events in the United States. What is the name of this event? 
 
-<img width="465" height="628" alt="image" src="https://github.com/user-attachments/assets/f37d920f-b6a8-4a8f-a2d1-f6000bb1a178" />
+<img width="340" height="450" alt="image" src="https://github.com/user-attachments/assets/c5c62ed3-0bcf-4ded-8fee-9da9447f3085" />
 
+Within this event's official Facebook group this exact image was posted on October 16th, 2025. What is the name of the user who posted this image? 
 
+<details>
+<summary>Click to see the answer to question #1</summary>
+  
+**Universal's Halloween Horror Night**
 
+</details>
 
 ### Challenge #3
 
