@@ -32,7 +32,7 @@ On this company’s official website there is a recipe for a Halloween themed ap
 
 ### Challenge #2
 
-This image was taken from one of the largest Halloween events in the United States. What is the name of this event and what is the  name of the individual who posted this exact image in a Facebook group?
+This image was taken from one of the largest Halloween events in the United States. What is the name of this event?
 
 <img width="340" height="450" alt="image" src="https://github.com/user-attachments/assets/c5c62ed3-0bcf-4ded-8fee-9da9447f3085" />
 
