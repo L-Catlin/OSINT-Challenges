@@ -9,6 +9,7 @@ The director of this film also assisted in the production of commercials for a f
 
 On this company’s official website there is a recipe for a Halloween themed apple pie. What is the name of this seasonal recipe? 
 
+**Answers:**
 <details>
 <summary>Click to see the answer to question #1</summary>
   
@@ -38,6 +39,7 @@ This image was taken from one of the largest Halloween events in the United Stat
 
 In 2019 there was a haunted house at this event themed after the Netflix show in which IMDB users frequently report as Netflix's most watched show ever. What is the name of this show and what is the name of the 2025 attraction that is at the same location as this haunted house once was? 
 
+**Answers:**
 <details>
 <summary>Click to see the answer to question #1</summary>
   
