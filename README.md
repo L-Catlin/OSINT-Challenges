@@ -32,4 +32,11 @@ On this company’s official website there is a recipe for a Halloween themed ap
 
 ### Challenge #2 - Medium
 
+- location OSINT
+
 This image was taken...
+
+### Challenge #3 - Hard
+
+- Social media OSINT
+- Custom made accounts? 
