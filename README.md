@@ -32,16 +32,23 @@ On this company’s official website there is a recipe for a Halloween themed ap
 
 ### Challenge #2
 
-This image was taken from one of the largest Halloween events in the United States. What is the name of this event? 
+This image was taken from one of the largest Halloween events in the United States. What is the name of this event and what is the  name of the individual who posted this exact image in a Facebook group?
 
 <img width="340" height="450" alt="image" src="https://github.com/user-attachments/assets/c5c62ed3-0bcf-4ded-8fee-9da9447f3085" />
 
-Within this event's official Facebook group this exact image was posted on October 16th, 2025. What is the name of the user who posted this image? 
+In 2019 there was a haunted house at this event themed after the Netflix show in which IMDB users frequently report as Netflix's most watched show ever. What is the name of the 2025 attraction that is at the same location as this haunted house was? 
 
 <details>
 <summary>Click to see the answer to question #1</summary>
   
-**Universal's Halloween Horror Night**
+**Universal's Halloween Horror Nights Orlando**
+
+</details>
+
+<details>
+<summary>Click to see the answer to question #2</summary>
+  
+**Terrifier**
 
 </details>
 
