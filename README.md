@@ -1,7 +1,7 @@
 # OSINT-Challenges
 Halloween OSINT Challenges
 
-### Challenge #1 - Easy
+### Challenge #1
 
 One of the best parts of Halloween is the spooky movies. What spooky film won the first ever San Francisco Film Critics Circle Award for best animated feature?
 
@@ -30,7 +30,7 @@ On this company’s official website there is a recipe for a Halloween themed ap
 
 </details>
 
-### Challenge #2 - Medium
+### Challenge #2
 
 This image was taken from one of the largest Halloween events in the United States. What is the name of this event? 
 
@@ -39,7 +39,7 @@ This image was taken from one of the largest Halloween events in the United Stat
 
 
 
-### Challenge #3 - Hard
+### Challenge #3
 
 - Social media OSINT?
-- Custom made accounts? 
+
