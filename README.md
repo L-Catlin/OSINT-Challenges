@@ -65,3 +65,9 @@ In 2019 there was a haunted house at this event themed after the Netflix show in
 
 - Social media OSINT?
 
+
+### Notes - delete later
+
+* Image for #2 too easy? - Something not directly from the internet would be great..
+* Create custom social profiles for #3? Probably wouldn't be indexed by google with them being so new, which could be good. 
+
