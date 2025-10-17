@@ -41,5 +41,5 @@ This image was taken from one of the largest Halloween events in the United Stat
 
 ### Challenge #3 - Hard
 
-- Social media OSINT
+- Social media OSINT?
 - Custom made accounts? 
